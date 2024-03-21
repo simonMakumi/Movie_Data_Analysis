@@ -8,6 +8,9 @@ Microsoft aims to venture into the film industry by establishing a new movie stu
 
 * What types of films are currently performing well at the box office?
 * How can these findings inform decisions regarding the types of films to produce?
+* What genres are most popular among audiences?
+* How do factors like production budget and ratings influence a film's success?
+* Who are the top writers and producers?
 
 ### Data Understanding and Analysis
 
@@ -54,3 +57,5 @@ Microsoft aims to venture into the film industry by establishing a new movie stu
 * Some of the most produced genres include Drama, Documentary, Comedy, etc.
 * Top 5 Genres with Highest Average Rating vary from Comedy to Documentary and Musical.
 * There is no significant correlation between movie rating and votes.
+* The directors with most movies in Comedy, Documentary and Drama are A. Blaine Miller, A. Branham Dyer and 'Atlas' Ramachandran respectively.
+* The writers with most movies in Comedy, Documentary, Drama are 'Om' Rakesh Chaturvedi, A. Branham Dyer, A Rahman respectively.
