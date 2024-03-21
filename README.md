@@ -58,4 +58,4 @@ Microsoft aims to venture into the film industry by establishing a new movie stu
 * Top 5 Genres with Highest Average Rating vary from Comedy to Documentary and Musical.
 * There is no significant correlation between movie rating and votes.
 * The directors with most movies in Comedy, Documentary and Drama are A. Blaine Miller, A. Branham Dyer and 'Atlas' Ramachandran respectively.
-* The writers with most movies in Comedy, Documentary, Drama are 'Om' Rakesh Chaturvedi, A. Branham Dyer, A Rahman respectively.
+* The writers with most movies in Comedy, Documentary, Drama are 'Om' Rakesh Chaturvedi, A. Branham Dyer and A Rahman respectively.
